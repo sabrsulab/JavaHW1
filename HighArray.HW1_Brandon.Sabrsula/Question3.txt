@@ -1,0 +1,2 @@
+3. Both the getMin() and removeMin() functions are O(n) because they iterate their single loops n number of times until
+they reach the value that they are searching for, in this case, the lowest value in the array.
